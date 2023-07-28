@@ -12,7 +12,7 @@ You can turn it off and on as you like
 
 
 
-<sub>Optional (if you can leave a star in the repository)  ⭐ .
+<sub>Optional (if you can leave a star in the repository)  ⭐ 
 
 
 ![octocat-1689678489063](https://github.com/MMVonnSeek/WebSite/assets/89359847/852854e0-cdc5-46ee-aa3c-39843a0e3e3d)
